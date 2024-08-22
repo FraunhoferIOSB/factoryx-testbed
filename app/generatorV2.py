@@ -1,9 +1,6 @@
 import pandas as pd
 import numpy  as np
 
-# signal processing:
-from scipy import signal
-
 # for the time stamps
 from datetime import datetime
 
