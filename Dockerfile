@@ -1,5 +1,6 @@
 # simple BASE-Image
 FROM python:3.10.11
+LABEL org.opencontainers.image.source = "https://github.com/FraunhoferIOSB/fx-ccm-dataspace-poc-business-int-logic"
 
 # working directory for te container
 WORKDIR /fx_data_source
